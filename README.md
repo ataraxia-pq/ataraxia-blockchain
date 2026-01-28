@@ -14,7 +14,7 @@
 ## Supply & Incentives
 - **Maximum Supply**: 150,000,000 XPQ (15,000,000,000,000 oriul)
 - **Base Incentive**: 10 XPQ (1,000,000 oriul)
-- **Incentive Levels**: [1,000,000, 1,500,000, 2,000,000] oriul [10, 15, 20] XPQ
+- **Incentive Levels**: 10, 15, 20 XPQ [1,000,000, 1,500,000, 2,000,000 oriul] 
 
 ## Block Parameters
 - **Block Time**: 300 seconds (5 minutes)
@@ -50,7 +50,7 @@ This project is licensed under the MIT License.
 
 MIT License
 
-Copyright (c) 2024 ATARAXIA
+Copyright (c) 2026 ATARAXIA
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
