@@ -14,7 +14,8 @@
 ## Supply & Incentives
 - **Maximum Supply**: 150,000,000 XPQ (15,000,000,000,000,000 oriul)
 - **Genesis Distribution**: 0 XPQ (no premine)
-- **Supply-Based Incentive Model**: 50-40-30-20-10-5-1 XPQ *(defined in genesis.rs)*
+- **Supply-Based Incentive Model**:
+  - 50-40-30-20-10-5-1 XPQ *(defined in genesis.rs)*
   - 0-10% supply: 50 XPQ per block
   - 11-20% supply: 40 XPQ per block
   - 21-30% supply: 30 XPQ per block
