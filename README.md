@@ -13,7 +13,7 @@
 
 ## Supply & Incentives
 - **Maximum Supply**: 150,000,000 XPQ (15,000,000,000,000 oriul)
-- **Base Incentive**: 1,000,000 oriul (10 XPQ)
+- **Base Incentive**: 10 XPQ (1,000,000 oriul)
 - **Incentive Levels**: [1,000,000, 1,500,000, 2,000,000] oriul [10, 15, 20] XPQ
 
 ## Block Parameters
