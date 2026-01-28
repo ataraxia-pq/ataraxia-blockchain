@@ -40,7 +40,7 @@
 
 ## Timestamp Parameters
 - **Timestamp Drift Tolerance**: 90 seconds
-- **Genesis Timestamp**: 1704067200 (January 1, 2024 00:00:00 UTC)
+- **Genesis Timestamp**: 1767225600 (January 1, 2026 00:00:00 UTC)
 - **Genesis Difficulty**: 1
 - **Genesis Nonce**: 0
 
