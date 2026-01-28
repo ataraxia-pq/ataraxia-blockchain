@@ -40,6 +40,9 @@
 
 ## Timestamp Parameters
 - **Timestamp Drift Tolerance**: 90 seconds
+- **Genesis Timestamp**: 1704067200 (January 1, 2024 00:00:00 UTC)
+- **Genesis Difficulty**: 1
+- **Genesis Nonce**: 0
 
 ## License
 
@@ -66,7 +69,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-- **Genesis Timestamp**: 1704067200 (January 1, 2024 00:00:00 UTC)
-- **Genesis Difficulty**: 1
-- **Genesis Nonce**: 0
