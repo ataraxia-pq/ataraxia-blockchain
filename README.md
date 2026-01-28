@@ -12,19 +12,27 @@
 - **XPQ Value**: 100,000
 
 ## Supply & Incentives
-- **Maximum Supply**: 150,000,000 XPQ (15,000,000,000,000 oriul)
-- **Base Incentive**: 10 XPQ (1,000,000 oriul)
-- **Incentive Levels**: 10, 15, 20 XPQ [1,000,000, 1,500,000, 2,000,000 oriul] 
+- **Maximum Supply**: 150,000,000 XPQ (15,000,000,000,000,000 oriul)
+- **Genesis Distribution**: 0 XPQ (no premine)
+- **Supply-Based Incentive Model**: 50-40-30-20-10-5-1 XPQ *(defined in genesis.rs)*
+  - 0-10% supply: 50 XPQ per block
+  - 11-20% supply: 40 XPQ per block
+  - 21-30% supply: 30 XPQ per block
+  - 31-40% supply: 20 XPQ per block
+  - 41-50% supply: 10 XPQ per block
+  - 51-75% supply: 5 XPQ per block
+  - 76-100% supply: 1 XPQ per block
+- **Total Duration**: ~460 years
+- **Supply Source**: 100% from mining rewards 
 
 ## Block Parameters
 - **Block Time**: 300 seconds (5 minutes)
-- **Evaluation Interval**: 105,120 blocks
 - **Block Incentive Maturity**: 300 blocks
 
 ## Difficulty Adjustment
 - **Adjustment Blocks**: 4032
 - **Minimum Difficulty**: 1
-- **Max Difficulty Up**: 2
+- **Max Difficulty Up**: 3
 - **Max Difficulty Down**: 1
 
 ## Transaction Parameters
