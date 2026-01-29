@@ -27,8 +27,8 @@
 - **Supply Source**: 100% from mining rewards 
 
 ## Block Parameters
-- **Block Time**: 300 seconds (5 minutes)
-- **Block Incentive Maturity**: 300 blocks
+- **Block Time**: 600 seconds (10 minutes)
+- **Block Incentive Maturity**: 500 blocks
 
 ## Difficulty Adjustment
 - **Adjustment Blocks**: 4032
