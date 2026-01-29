@@ -22,7 +22,7 @@
   - 71-80% supply: 6,25 XPQ per block
   - 81-90% supply: 3,125 XPQ per block
   - 91-100% supply: 0,5 XPQ per block
-- **Total Duration**: ~460 years
+- **Total Duration**: ~77 years
 - **Supply Source**: 100% from mining rewards 
 
 ## Block Parameters
