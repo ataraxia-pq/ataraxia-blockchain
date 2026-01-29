@@ -15,23 +15,22 @@
 - **Maximum Supply**: 150,000,000 XPQ (15,000,000,000,000,000 oriul)
 - **Genesis Distribution**: 0 XPQ (no premine)
 - **Supply-Based Incentive Model**:
-  - 50-40-30-20-10-5-1 XPQ
-  - 0-10% supply: 50 XPQ per block
-  - 11-20% supply: 40 XPQ per block
-  - 21-30% supply: 30 XPQ per block
-  - 31-40% supply: 20 XPQ per block
-  - 41-50% supply: 10 XPQ per block
-  - 51-75% supply: 5 XPQ per block
-  - 76-100% supply: 1 XPQ per block
+  - 50-25-12,5-6,25-3,125-0,5 XPQ
+  - 0-50% supply: 50 XPQ per block
+  - 51-60% supply: 25 XPQ per block
+  - 61-70% supply: 12,5 XPQ per block
+  - 71-80% supply: 6,25 XPQ per block
+  - 81-90% supply: 3,125 XPQ per block
+  - 91-100% supply: 0,5 XPQ per block
 - **Total Duration**: ~460 years
 - **Supply Source**: 100% from mining rewards 
 
 ## Block Parameters
-- **Block Time**: 600 seconds (10 minutes)
-- **Block Incentive Maturity**: 500 blocks
+- **Block Time**: 60 seconds (1 minutes)
+- **Block Incentive Maturity**: 1440 blocks
 
 ## Difficulty Adjustment
-- **Adjustment Blocks**: 4032
+- **Adjustment Blocks**: 14400
 - **Minimum Difficulty**: 1
 - **Max Difficulty Up**: 3
 - **Max Difficulty Down**: 1
