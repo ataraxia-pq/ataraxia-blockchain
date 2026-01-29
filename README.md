@@ -21,7 +21,7 @@
   - 71-80% supply: 3.125 XPQ per block
   - 81-90% supply: 1.5625 XPQ per block
   - 91-100% supply: 0.5 XPQ per block
-- **Total Duration**: ~220 years
+- **Total Duration**: ~97 years
 - **Supply Source**: 100% from mining rewards
 - **Mined Supply Definition**: Includes ALL coins ever mined, regardless of maturity status. Maturity (1440 blocks) is handled separately for spendability.
 - **Economic Characteristics**:
