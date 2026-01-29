@@ -32,8 +32,8 @@
 ## Difficulty Adjustment
 - **Adjustment Blocks**: 14400
 - **Minimum Difficulty**: 1
-- **Max Difficulty Up**: 3
-- **Max Difficulty Down**: 1
+- **Max Difficulty Up**: 4
+- **Max Difficulty Down**: 2
 
 ## Transaction Parameters
 - **Max Transaction Size**: 32 KB (32,768 bytes)
